@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Awesome Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Role-Playing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Personalized Chat"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Evaluation Personality of LLM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Myers–Briggs Type Indicator (MBTI) Evaluation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Big Five Factors Evaluation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other Personal Evaluation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Benchmark"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Survey"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "carecall-corpus (Korean)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-03T02:32:28Z",
+            "owner": "naver-ai",
+            "repo": "carecall-corpus",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep-Personalized-Character-Dataset-DPCD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-10T13:07:55Z",
+            "owner": "Metaverse-AI-Lab-THU",
+            "repo": "Deep-Personalized-Character-Dataset-DPCD",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Awesome Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Paper reading list in dialogue systems",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-05T11:59:38Z",
+            "owner": "iwangjian",
+            "repo": "Paper-Reading-ConvAI",
+            "stars": 1042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Persona Paper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-12T06:32:21Z",
+            "owner": "Sahandfer",
+            "repo": "PersonaPaper",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM and Society",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-11-03T12:47:13Z",
+            "owner": "penguinnnnn",
+            "repo": "awesome-llm-and-society",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Related Repositories"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:02:37.160Z",
+    "original_repository": "AiHubCN/Awesome-Personalized-LLM",
+    "original_repository_sha": "12020676342f822ecb9a04d8f573755cf45bfad7",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Personalized-LLM",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Personalized-LLM with stars"
+  }
+}
