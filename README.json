@@ -1,52 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Awesome Papers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Role-Playing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Personalized Chat"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Evaluation Personality of LLM"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Myers–Briggs Type Indicator (MBTI) Evaluation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Big Five Factors Evaluation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Other Personal Evaluation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Benchmark"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Survey"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -55,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 487738011,
             "language": null,
             "last_commit": "2022-05-03T02:32:28Z",
             "owner": "naver-ai",
@@ -69,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 564316399,
             "language": null,
             "last_commit": "2022-11-10T13:07:55Z",
             "owner": "Metaverse-AI-Lab-THU",
@@ -80,7 +37,7 @@
       "title": "Awesome Datasets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -89,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141585170,
             "language": null,
             "last_commit": "2026-05-05T11:59:38Z",
             "owner": "iwangjian",
@@ -103,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383485402,
             "language": null,
             "last_commit": "2024-07-12T06:32:21Z",
             "owner": "Sahandfer",
@@ -117,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 648080328,
             "language": null,
             "last_commit": "2023-11-03T12:47:13Z",
             "owner": "penguinnnnn",
@@ -129,7 +89,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:21:46.358Z",
+    "last_updated": "2026-08-19T07:22:36.227Z",
     "original_repository": "AiHubCN/Awesome-Personalized-LLM",
     "original_repository_sha": "12020676342f822ecb9a04d8f573755cf45bfad7",
     "enhanced_repository": "enhansome/enhansome-Awesome-Personalized-LLM",
