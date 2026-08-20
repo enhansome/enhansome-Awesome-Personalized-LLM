@@ -93,7 +93,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 | Title                                                                                                              |  Venue  |    Date    |                                                         Code                                                         | Demo |
 | :----------------------------------------------------------------------------------------------------------------- | :-----: | :--------: | :------------------------------------------------------------------------------------------------------------------: | :--: |
-| [**The Oscars of AI Theater: A Survey on Role-Playing with Language Models**](https://arxiv.org/pdf/2407.11484)    | Arxiv24 | 2024-09-01 | [Awesome-Role Playing-Papers](https://github.com/nuochenpku/Awesome-Role-Play-Papers) ⭐ 230 \| 🐛 0 \| 📅 2024-11-03 |   -  |
+| [**The Oscars of AI Theater: A Survey on Role-Playing with Language Models**](https://arxiv.org/pdf/2407.11484)    | Arxiv24 | 2024-09-01 | [Awesome-Role Playing-Papers](https://github.com/nuochenpku/Awesome-Role-Play-Papers) ⭐ 231 \| 🐛 0 \| 📅 2024-11-03 |   -  |
 | [**Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization**](https://arxiv.org/pdf/2406.01171) | Arxiv24 | 2024-06-01 |            [PersonaLLM-Survey](https://github.com/MiuLab/PersonaLLM-Survey) ⭐ 118 \| 🐛 1 \| 📅 2024-10-11           |   -  |
 | [**From Persona to Personalization: A Survey on Role-Playing Language Agents**](https://arxiv.org/pdf/2404.18231)  | Arxiv24 | 2023-04-28 |                                                           -                                                          |   -  |
 
@@ -115,4 +115,4 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
