@@ -62,7 +62,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
 | [**Does Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots**](https://arxiv.org/abs/2310.17976) | Arxiv23 | 2023-10-27 |            [Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya) ⭐ 2,107 \| 🐛 43 \| 🌐 Jupyter Notebook \| 📅 2024-08-13           |   -  |
 | [**Can ChatGPT Assess Human Personalities? A General Evaluation Framework**](https://arxiv.org/pdf/2303.01248.pdf)                                             | EMNLP23 | 2023-10-13 |                         [ChatGPT-MBTI](https://github.com/Kali-Hac/ChatGPT-MBTI) ⭐ 100 \| 🐛 0 \| 🌐 Python \| 📅 2024-01-15                         |   -  |
-| [**Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models**](https://arxiv.org/abs/2307.16180)                    |  Arxiv  | 2023-07-30 | [LLMs-MBTI](https://github.com/HarderThenHarder/transformers_tasks/tree/main/LLM/llms_mbti) ⭐ 2,419 \| 🐛 59 \| 🌐 Jupyter Notebook \| 📅 2023-09-29 |   -  |
+| [**Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models**](https://arxiv.org/abs/2307.16180)                    |  Arxiv  | 2023-07-30 | [LLMs-MBTI](https://github.com/HarderThenHarder/transformers_tasks/tree/main/LLM/llms_mbti) ⭐ 2,420 \| 🐛 59 \| 🌐 Jupyter Notebook \| 📅 2023-09-29 |   -  |
 
 #### Big Five Factors Evaluation
 
@@ -115,4 +115,4 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
