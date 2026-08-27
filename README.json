@@ -474,9 +474,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:28:15.819Z",
-    "original_repository": "AiHubCN/Awesome-Personalized-LLM",
-    "original_repository_id": 705625763,
+    "last_updated": "2026-08-27T11:26:19.696Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 705625763,
+      "language": null,
+      "last_commit": "2024-09-23T06:23:13Z",
+      "owner": "AiHubCN",
+      "repo": "Awesome-Personalized-LLM",
+      "stars": 146
+    },
     "original_repository_sha": "12020676342f822ecb9a04d8f573755cf45bfad7",
     "enhanced_repository": "enhansome/enhansome-Awesome-Personalized-LLM",
     "enhanced_repository_description": null,
