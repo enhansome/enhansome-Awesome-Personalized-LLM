@@ -18,7 +18,8 @@
                 "owner": "yuyouyu32",
                 "repo": "BeyondDialogue",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "X-PLUG",
                 "repo": "SocialBench",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "weiyifan1023",
                 "repo": "Neeko",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "OFA-Sys",
                 "repo": "Ditto",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "thu-coai",
                 "repo": "CharacterGLM-6B",
                 "stars": 503
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "choosewhatulike",
                 "repo": "trainable-agents",
                 "stars": 645
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "InteractiveNLP-Team",
                 "repo": "RoleLLM-public",
                 "stars": 528
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             },
             {
               "node_type": "item",
@@ -122,8 +129,9 @@
                 "last_commit": "2024-08-13T11:13:29Z",
                 "owner": "LC1332",
                 "repo": "Chat-Haruhi-Suzumiya",
-                "stars": 2107
-              }
+                "stars": 2108
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             }
           ],
           "description": null,
@@ -145,7 +153,8 @@
                 "owner": "WENGSYX",
                 "repo": "ControlLM",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "joeljang",
                 "repo": "RLPHF",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "morecry",
                 "repo": "CharacterChat",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "facebookresearch",
                 "repo": "LIGHT",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "Metaverse-AI-Lab-THU",
                 "repo": "Deep-Personalized-Character-Dataset-DPCD",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "naver-ai",
                 "repo": "carecall-corpus",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             }
           ],
           "description": null,
@@ -243,8 +257,9 @@
                     "last_commit": "2024-08-13T11:13:29Z",
                     "owner": "LC1332",
                     "repo": "Chat-Haruhi-Suzumiya",
-                    "stars": 2107
-                  }
+                    "stars": 2108
+                  },
+                  "first_seen": "2026-08-28T18:57:56.796Z"
                 },
                 {
                   "node_type": "item",
@@ -259,7 +274,8 @@
                     "owner": "Kali-Hac",
                     "repo": "ChatGPT-MBTI",
                     "stars": 100
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:57:56.796Z"
                 },
                 {
                   "node_type": "item",
@@ -274,7 +290,8 @@
                     "owner": "HarderThenHarder",
                     "repo": "transformers_tasks",
                     "stars": 2420
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:57:56.796Z"
                 }
               ],
               "description": null,
@@ -296,7 +313,8 @@
                     "owner": "FieryAced",
                     "repo": "-NPC-Dialogue-Generation",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:57:56.796Z"
                 }
               ],
               "description": null,
@@ -323,7 +341,8 @@
                 "owner": "morecry",
                 "repo": "CharacterEval",
                 "stars": 302
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             },
             {
               "node_type": "item",
@@ -338,7 +357,8 @@
                 "owner": "Magnetic2014",
                 "repo": "RoleEval",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             }
           ],
           "description": null,
@@ -360,7 +380,8 @@
                 "owner": "nuochenpku",
                 "repo": "Awesome-Role-Play-Papers",
                 "stars": 231
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             },
             {
               "node_type": "item",
@@ -375,7 +396,8 @@
                 "owner": "MiuLab",
                 "repo": "PersonaLLM-Survey",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T18:57:56.796Z"
             }
           ],
           "description": null,
@@ -401,7 +423,8 @@
             "owner": "naver-ai",
             "repo": "carecall-corpus",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T18:57:56.796Z"
         },
         {
           "node_type": "item",
@@ -416,7 +439,8 @@
             "owner": "Metaverse-AI-Lab-THU",
             "repo": "Deep-Personalized-Character-Dataset-DPCD",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T18:57:56.796Z"
         }
       ],
       "title": "Awesome Datasets"
@@ -437,7 +461,8 @@
             "owner": "iwangjian",
             "repo": "Paper-Reading-ConvAI",
             "stars": 1043
-          }
+          },
+          "first_seen": "2026-08-28T18:57:56.796Z"
         },
         {
           "node_type": "item",
@@ -452,7 +477,8 @@
             "owner": "Sahandfer",
             "repo": "PersonaPaper",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T18:57:56.796Z"
         },
         {
           "node_type": "item",
@@ -467,14 +493,15 @@
             "owner": "penguinnnnn",
             "repo": "awesome-llm-and-society",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T18:57:56.796Z"
         }
       ],
       "title": "Related Repositories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:52:14.088Z",
+    "last_updated": "2026-08-28T18:57:56.796Z",
     "original_repository_info": {
       "archived": false,
       "id": 705625763,
