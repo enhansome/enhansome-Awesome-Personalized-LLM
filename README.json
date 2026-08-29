@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 844987403,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-04T06:17:59Z",
+                "open_issues": 1,
                 "owner": "yuyouyu32",
                 "repo": "BeyondDialogue",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RoleInteract: Evaluating the Social Interaction of Role-Playing Agents",
+                "homepage": null,
                 "id": 774795812,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-12T09:11:37Z",
+                "open_issues": 3,
                 "owner": "X-PLUG",
                 "repo": "SocialBench",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and Data for EMNLP 2024  Paper  \"Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent\"",
+                "homepage": "https://aclanthology.org/2024.emnlp-main.697/",
                 "id": 745865601,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-23T03:21:53Z",
+                "open_issues": 2,
                 "owner": "weiyifan1023",
                 "repo": "Neeko",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             },
@@ -60,12 +75,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A self-ailgnment method for role-play. Benchmark for role-play. Resources for \"Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment\".",
+                "homepage": null,
                 "id": 745536363,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-05-28T07:27:13Z",
+                "open_issues": 1,
                 "owner": "OFA-Sys",
                 "repo": "Ditto",
-                "stars": 213
+                "stars": 213,
+                "topics": [
+                  "benchmark",
+                  "llm",
+                  "roleplay"
+                ]
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             },
@@ -76,12 +100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP'24] CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models",
+                "homepage": null,
                 "id": 694107796,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-02T08:18:27Z",
+                "open_issues": 4,
                 "owner": "thu-coai",
                 "repo": "CharacterGLM-6B",
-                "stars": 503
+                "stars": 503,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             },
@@ -92,12 +121,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code  and datasets for \"Character-LLM: A Trainable Agent for Role-Playing\"",
+                "homepage": null,
                 "id": 701972055,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-29T04:28:07Z",
+                "open_issues": 2,
                 "owner": "choosewhatulike",
                 "repo": "trainable-agents",
-                "stars": 645
+                "stars": 645,
+                "topics": [
+                  "agent",
+                  "character",
+                  "language-model",
+                  "large-language-models",
+                  "llm",
+                  "natural-language-processing",
+                  "roleplay",
+                  "sft"
+                ]
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             },
@@ -108,12 +151,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models",
+                "homepage": null,
                 "id": 698970375,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-10-11T06:51:25Z",
+                "open_issues": 11,
                 "owner": "InteractiveNLP-Team",
                 "repo": "RoleLLM-public",
-                "stars": 528
+                "stars": 528,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             },
@@ -124,12 +172,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chat凉宫春日, An open sourced Role-Playing chatbot Cheng Li, Ziang Leng, and others.",
+                "homepage": null,
                 "id": 647531163,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-13T11:13:29Z",
+                "open_issues": 43,
                 "owner": "LC1332",
                 "repo": "Chat-Haruhi-Suzumiya",
-                "stars": 2108
+                "stars": 2108,
+                "topics": [
+                  "role-playing",
+                  "text-generation"
+                ]
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             }
@@ -147,12 +203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ControlLM is a method to control the personality traits and behaviors of language models in real-time at inference without costly training interventions.",
+                "homepage": null,
                 "id": 757495231,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-06T18:17:05Z",
+                "open_issues": 1,
                 "owner": "WENGSYX",
                 "repo": "ControlLM",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             },
@@ -163,12 +224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging",
+                "homepage": null,
                 "id": 704650830,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-23T23:52:55Z",
+                "open_issues": 3,
                 "owner": "joeljang",
                 "repo": "RLPHF",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             },
@@ -179,12 +245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "repository for CharacterChat, a personalized social support system",
+                "homepage": null,
                 "id": 680562592,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-13T13:20:52Z",
+                "open_issues": 1,
                 "owner": "morecry",
                 "repo": "CharacterChat",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             },
@@ -195,12 +266,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "LIGHT is a platform for text-situated dialogue research. We originally hosted LIGHT as a live game with dialogue models in a grounded setting. This repo contains all of the code to get the LIGHT game running, as well as reproducible code for the research projects along the way of getting LIGHT to where it was.",
+                "homepage": "https://www.parl.ai/projects/light",
                 "id": 264010780,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-15T19:26:21Z",
+                "open_issues": 9,
                 "owner": "facebookresearch",
                 "repo": "LIGHT",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             },
@@ -211,12 +287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "We contribute a multimodal dialogue dataset, named Deep Personalized Character Dataset (DPCD), from TV shows, which contains a large number of character-specific text, audio and video dialogue data with ~10k utterances and ~6 hours audio and video per character. ",
+                "homepage": null,
                 "id": 564316399,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-10T13:07:55Z",
+                "open_issues": 2,
                 "owner": "Metaverse-AI-Lab-THU",
                 "repo": "Deep-Personalized-Character-Dataset-DPCD",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             },
@@ -227,12 +308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CareCall for Seniors: Role Specified Open-Domain Dialogue dataset generated by leveraging LLMs (NAACL 2022).",
+                "homepage": null,
                 "id": 487738011,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-03T02:32:28Z",
+                "open_issues": 0,
                 "owner": "naver-ai",
                 "repo": "carecall-corpus",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             }
@@ -252,12 +338,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chat凉宫春日, An open sourced Role-Playing chatbot Cheng Li, Ziang Leng, and others.",
+                    "homepage": null,
                     "id": 647531163,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-13T11:13:29Z",
+                    "open_issues": 43,
                     "owner": "LC1332",
                     "repo": "Chat-Haruhi-Suzumiya",
-                    "stars": 2108
+                    "stars": 2108,
+                    "topics": [
+                      "role-playing",
+                      "text-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:57:56.796Z"
                 },
@@ -268,12 +362,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP-2023] Official Codes for “Can ChatGPT Assess Human Personalities? A General Evaluation Framework”",
+                    "homepage": null,
                     "id": 602399792,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-01-15T01:37:17Z",
+                    "open_issues": 0,
                     "owner": "Kali-Hac",
                     "repo": "ChatGPT-MBTI",
-                    "stars": 100
+                    "stars": 100,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:57:56.796Z"
                 },
@@ -284,12 +383,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "⭐️ NLP Algorithms with transformers lib. Supporting Text-Classification, Text-Generation, Information-Extraction, Text-Matching, RLHF, SFT etc.",
+                    "homepage": "https://www.zhihu.com/column/c_1451236880973426688",
                     "id": 565372076,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2023-09-29T10:58:39Z",
+                    "open_issues": 59,
                     "owner": "HarderThenHarder",
                     "repo": "transformers_tasks",
-                    "stars": 2420
+                    "stars": 2420,
+                    "topics": [
+                      "information-extraction",
+                      "nlp",
+                      "reinforcement-learning",
+                      "text-classification",
+                      "text-generation",
+                      "text-matching",
+                      "transformers"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:57:56.796Z"
                 }
@@ -307,12 +419,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 653903619,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-06-15T02:48:55Z",
+                    "open_issues": 0,
                     "owner": "FieryAced",
                     "repo": "-NPC-Dialogue-Generation",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:57:56.796Z"
                 }
@@ -335,12 +452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 741124310,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-27T16:17:39Z",
+                "open_issues": 27,
                 "owner": "morecry",
                 "repo": "CharacterEval",
-                "stars": 302
+                "stars": 302,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             },
@@ -351,12 +473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Bilingual Role Evaluation Benchmark for Large Language Models",
+                "homepage": null,
                 "id": 735989211,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-09T06:57:59Z",
+                "open_issues": 1,
                 "owner": "Magnetic2014",
                 "repo": "RoleEval",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             }
@@ -374,12 +501,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome papers for role-playing with language models",
+                "homepage": null,
                 "id": 708847290,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-11-03T12:51:24Z",
+                "open_issues": 0,
                 "owner": "nuochenpku",
                 "repo": "Awesome-Role-Play-Papers",
-                "stars": 231
+                "stars": 231,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             },
@@ -390,12 +522,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 764958659,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-10-11T08:18:02Z",
+                "open_issues": 1,
                 "owner": "MiuLab",
                 "repo": "PersonaLLM-Survey",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
             }
@@ -417,12 +554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CareCall for Seniors: Role Specified Open-Domain Dialogue dataset generated by leveraging LLMs (NAACL 2022).",
+            "homepage": null,
             "id": 487738011,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2022-05-03T02:32:28Z",
+            "open_issues": 0,
             "owner": "naver-ai",
             "repo": "carecall-corpus",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:56.796Z"
         },
@@ -433,12 +575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "We contribute a multimodal dialogue dataset, named Deep Personalized Character Dataset (DPCD), from TV shows, which contains a large number of character-specific text, audio and video dialogue data with ~10k utterances and ~6 hours audio and video per character. ",
+            "homepage": null,
             "id": 564316399,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-11-10T13:07:55Z",
+            "open_issues": 2,
             "owner": "Metaverse-AI-Lab-THU",
             "repo": "Deep-Personalized-Character-Dataset-DPCD",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:56.796Z"
         }
@@ -455,12 +602,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📖 Paper reading list in conversational AI.",
+            "homepage": null,
             "id": 141585170,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-05T11:59:38Z",
+            "open_issues": 1,
             "owner": "iwangjian",
             "repo": "Paper-Reading-ConvAI",
-            "stars": 1043
+            "stars": 1043,
+            "topics": [
+              "conversational-ai",
+              "dialogue-generation",
+              "dialogue-systems",
+              "natural-language-generation",
+              "nlp",
+              "paper-list"
+            ]
           },
           "first_seen": "2026-08-28T18:57:56.796Z"
         },
@@ -471,12 +630,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a repository for sharing papers in the field of persona-based conversational AI. The related source code for each paper is linked if available.",
+            "homepage": null,
             "id": 383485402,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2024-07-12T06:32:21Z",
+            "open_issues": 1,
             "owner": "Sahandfer",
             "repo": "PersonaPaper",
-            "stars": 172
+            "stars": 172,
+            "topics": [
+              "conversational-ai",
+              "dialog-systems",
+              "natural-language-processing",
+              "nlp",
+              "persona",
+              "persona-based"
+            ]
           },
           "first_seen": "2026-08-28T18:57:56.796Z"
         },
@@ -487,12 +658,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recent papers on (1) Psychology of LLMs; (2) Biases in LLMs.",
+            "homepage": null,
             "id": 648080328,
             "language": null,
+            "license": null,
             "last_commit": "2023-11-03T12:47:13Z",
+            "open_issues": 0,
             "owner": "penguinnnnn",
             "repo": "awesome-llm-and-society",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:56.796Z"
         }
@@ -501,15 +677,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:57:56.796Z",
+    "last_updated": "2026-08-29T04:54:01.180Z",
     "original_repository_info": {
       "archived": false,
+      "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
+      "homepage": null,
       "id": 705625763,
       "language": null,
+      "license": null,
       "last_commit": "2024-09-23T06:23:13Z",
+      "open_issues": 1,
       "owner": "AiHubCN",
       "repo": "Awesome-Personalized-LLM",
-      "stars": 146
+      "stars": 146,
+      "topics": [
+        "awesome-list",
+        "llm",
+        "nlp",
+        "role-playing"
+      ]
     },
     "original_repository_sha": "12020676342f822ecb9a04d8f573755cf45bfad7",
     "enhanced_repository": "enhansome/enhansome-Awesome-Personalized-LLM",
