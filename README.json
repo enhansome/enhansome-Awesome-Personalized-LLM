@@ -84,7 +84,7 @@
                 "open_issues": 1,
                 "owner": "OFA-Sys",
                 "repo": "Ditto",
-                "stars": 213,
+                "stars": 214,
                 "topics": [
                   "benchmark",
                   "llm",
@@ -109,7 +109,7 @@
                 "open_issues": 4,
                 "owner": "thu-coai",
                 "repo": "CharacterGLM-6B",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -160,7 +160,7 @@
                 "open_issues": 11,
                 "owner": "InteractiveNLP-Team",
                 "repo": "RoleLLM-public",
-                "stars": 528,
+                "stars": 530,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T11:57:12.474Z",
+    "last_updated": "2026-09-02T11:39:28.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
