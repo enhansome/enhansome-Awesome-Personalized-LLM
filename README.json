@@ -130,7 +130,7 @@
                 "open_issues": 2,
                 "owner": "choosewhatulike",
                 "repo": "trainable-agents",
-                "stars": 645,
+                "stars": 646,
                 "topics": [
                   "agent",
                   "character",
@@ -181,7 +181,7 @@
                 "open_issues": 43,
                 "owner": "LC1332",
                 "repo": "Chat-Haruhi-Suzumiya",
-                "stars": 2110,
+                "stars": 2111,
                 "topics": [
                   "role-playing",
                   "text-generation"
@@ -347,7 +347,7 @@
                     "open_issues": 43,
                     "owner": "LC1332",
                     "repo": "Chat-Haruhi-Suzumiya",
-                    "stars": 2110,
+                    "stars": 2111,
                     "topics": [
                       "role-playing",
                       "text-generation"
@@ -392,7 +392,7 @@
                     "open_issues": 59,
                     "owner": "HarderThenHarder",
                     "repo": "transformers_tasks",
-                    "stars": 2420,
+                    "stars": 2421,
                     "topics": [
                       "information-extraction",
                       "nlp",
@@ -482,7 +482,7 @@
                 "open_issues": 1,
                 "owner": "Magnetic2014",
                 "repo": "RoleEval",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T11:39:28.728Z",
+    "last_updated": "2026-09-03T11:38:21.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
