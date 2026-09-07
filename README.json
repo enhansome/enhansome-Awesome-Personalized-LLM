@@ -130,7 +130,7 @@
                 "open_issues": 2,
                 "owner": "choosewhatulike",
                 "repo": "trainable-agents",
-                "stars": 646,
+                "stars": 647,
                 "topics": [
                   "agent",
                   "character",
@@ -181,7 +181,7 @@
                 "open_issues": 43,
                 "owner": "LC1332",
                 "repo": "Chat-Haruhi-Suzumiya",
-                "stars": 2111,
+                "stars": 2110,
                 "topics": [
                   "role-playing",
                   "text-generation"
@@ -347,7 +347,7 @@
                     "open_issues": 43,
                     "owner": "LC1332",
                     "repo": "Chat-Haruhi-Suzumiya",
-                    "stars": 2111,
+                    "stars": 2110,
                     "topics": [
                       "role-playing",
                       "text-generation"
@@ -611,7 +611,7 @@
             "open_issues": 1,
             "owner": "iwangjian",
             "repo": "Paper-Reading-ConvAI",
-            "stars": 1043,
+            "stars": 1044,
             "topics": [
               "conversational-ai",
               "dialogue-generation",
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:16:51.669Z",
+    "last_updated": "2026-09-07T12:57:48.325Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
