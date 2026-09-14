@@ -109,7 +109,7 @@
                 "open_issues": 4,
                 "owner": "thu-coai",
                 "repo": "CharacterGLM-6B",
-                "stars": 505,
+                "stars": 504,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T12:14:24.792Z",
+    "last_updated": "2026-09-14T13:15:37.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
@@ -689,7 +689,7 @@
       "open_issues": 1,
       "owner": "AiHubCN",
       "repo": "Awesome-Personalized-LLM",
-      "stars": 146,
+      "stars": 147,
       "topics": [
         "awesome-list",
         "llm",
