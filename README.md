@@ -109,10 +109,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## Related Repositories
 
-* [Paper reading list in dialogue systems](https://github.com/iwangjian/Paper-Reading#personalized-dialogue) ⭐ 1,044 | 🐛 1 | 📅 2026-05-05
+* [Paper reading list in dialogue systems](https://github.com/iwangjian/Paper-Reading#personalized-dialogue) ⭐ 1,043 | 🐛 1 | 📅 2026-05-05
 * [Persona Paper](https://github.com/Sahandfer/PersonaPaper) ⭐ 172 | 🐛 1 | 📅 2024-07-12
 * [LLM and Society](https://github.com/penguinnnnn/awesome-llm-and-society) ⭐ 51 | 🐛 0 | 📅 2023-11-03
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
