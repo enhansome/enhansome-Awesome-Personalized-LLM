@@ -85,7 +85,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 | Title                                                                                                                       |  Venue  |    Date    |                                                  Code                                                  | Demo |
 | :-------------------------------------------------------------------------------------------------------------------------- | :-----: | :--------: | :----------------------------------------------------------------------------------------------------: | :--: |
-| [**CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation**](https://arxiv.org/abs/2401.01275) | Arxiv24 | 2024-01-02 | [CharacterEval](https://github.com/morecry/CharacterEval) ⭐ 304 \| 🐛 27 \| 🌐 Python \| 📅 2025-05-27 |   -  |
+| [**CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation**](https://arxiv.org/abs/2401.01275) | Arxiv24 | 2024-01-02 | [CharacterEval](https://github.com/morecry/CharacterEval) ⭐ 305 \| 🐛 27 \| 🌐 Python \| 📅 2025-05-27 |   -  |
 | [**RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models**](https://arxiv.org/abs/2312.16132)           | Arxiv23 | 2023-12-12 |           [RoleEval](https://github.com/Magnetic2014/RoleEval) ⭐ 44 \| 🐛 1 \| 📅 2024-01-09           |   -  |
 | [**LaMP: When Large Language Models Meet Personalization**](https://arxiv.org/pdf/2304.11406.pdf)                           | Arxiv23 | 2023-05-19 |                                                    -                                                   |   -  |
 
@@ -109,10 +109,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## Related Repositories
 
-* [Paper reading list in dialogue systems](https://github.com/iwangjian/Paper-Reading#personalized-dialogue) ⭐ 1,043 | 🐛 1 | 📅 2026-05-05
+* [Paper reading list in dialogue systems](https://github.com/iwangjian/Paper-Reading#personalized-dialogue) ⭐ 1,042 | 🐛 1 | 📅 2026-05-05
 * [Persona Paper](https://github.com/Sahandfer/PersonaPaper) ⭐ 172 | 🐛 1 | 📅 2024-07-12
 * [LLM and Society](https://github.com/penguinnnnn/awesome-llm-and-society) ⭐ 51 | 🐛 0 | 📅 2023-11-03
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
