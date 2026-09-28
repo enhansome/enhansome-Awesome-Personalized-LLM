@@ -181,7 +181,7 @@
                 "open_issues": 43,
                 "owner": "LC1332",
                 "repo": "Chat-Haruhi-Suzumiya",
-                "stars": 2117,
+                "stars": 2118,
                 "topics": [
                   "role-playing",
                   "text-generation"
@@ -347,7 +347,7 @@
                     "open_issues": 43,
                     "owner": "LC1332",
                     "repo": "Chat-Haruhi-Suzumiya",
-                    "stars": 2117,
+                    "stars": 2118,
                     "topics": [
                       "role-playing",
                       "text-generation"
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T12:22:23.682Z",
+    "last_updated": "2026-09-28T14:22:55.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
@@ -689,7 +689,7 @@
       "open_issues": 1,
       "owner": "AiHubCN",
       "repo": "Awesome-Personalized-LLM",
-      "stars": 147,
+      "stars": 148,
       "topics": [
         "awesome-list",
         "llm",
