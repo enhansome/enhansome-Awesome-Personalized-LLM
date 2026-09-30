@@ -109,7 +109,7 @@
                 "open_issues": 4,
                 "owner": "thu-coai",
                 "repo": "CharacterGLM-6B",
-                "stars": 505,
+                "stars": 507,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -181,7 +181,7 @@
                 "open_issues": 43,
                 "owner": "LC1332",
                 "repo": "Chat-Haruhi-Suzumiya",
-                "stars": 2118,
+                "stars": 2119,
                 "topics": [
                   "role-playing",
                   "text-generation"
@@ -347,7 +347,7 @@
                     "open_issues": 43,
                     "owner": "LC1332",
                     "repo": "Chat-Haruhi-Suzumiya",
-                    "stars": 2118,
+                    "stars": 2119,
                     "topics": [
                       "role-playing",
                       "text-generation"
@@ -392,7 +392,7 @@
                     "open_issues": 59,
                     "owner": "HarderThenHarder",
                     "repo": "transformers_tasks",
-                    "stars": 2423,
+                    "stars": 2424,
                     "topics": [
                       "information-extraction",
                       "nlp",
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T13:15:41.401Z",
+    "last_updated": "2026-09-30T12:56:07.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
