@@ -611,7 +611,7 @@
             "open_issues": 1,
             "owner": "iwangjian",
             "repo": "Paper-Reading-ConvAI",
-            "stars": 1042,
+            "stars": 1043,
             "topics": [
               "conversational-ai",
               "dialogue-generation",
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:48:46.055Z",
+    "last_updated": "2026-10-02T13:04:41.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
