@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:27:19.675Z",
+    "last_updated": "2026-10-03T11:57:14.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
@@ -686,7 +686,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-09-23T06:23:13Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "AiHubCN",
       "repo": "Awesome-Personalized-LLM",
       "stars": 148,
