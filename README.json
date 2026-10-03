@@ -181,7 +181,7 @@
                 "open_issues": 43,
                 "owner": "LC1332",
                 "repo": "Chat-Haruhi-Suzumiya",
-                "stars": 2118,
+                "stars": 2119,
                 "topics": [
                   "role-playing",
                   "text-generation"
@@ -347,7 +347,7 @@
                     "open_issues": 43,
                     "owner": "LC1332",
                     "repo": "Chat-Haruhi-Suzumiya",
-                    "stars": 2118,
+                    "stars": 2119,
                     "topics": [
                       "role-playing",
                       "text-generation"
@@ -528,7 +528,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-10-11T08:18:02Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "MiuLab",
                 "repo": "PersonaLLM-Survey",
                 "stars": 119,
@@ -550,7 +550,7 @@
         {
           "node_type": "item",
           "title": "carecall-corpus (Korean)",
-          "description": null,
+          "description": "naver-ai/carecall-corpus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -571,7 +571,7 @@
         {
           "node_type": "item",
           "title": "Deep-Personalized-Character-Dataset-DPCD",
-          "description": null,
+          "description": "Metaverse-AI-Lab-THU/Deep-Personalized-Character-Dataset-DPCD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -598,7 +598,7 @@
         {
           "node_type": "item",
           "title": "Paper reading list in dialogue systems",
-          "description": null,
+          "description": "iwangjian/Paper-Reading-ConvAI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -626,7 +626,7 @@
         {
           "node_type": "item",
           "title": "Persona Paper",
-          "description": null,
+          "description": "Sahandfer/PersonaPaper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -654,7 +654,7 @@
         {
           "node_type": "item",
           "title": "LLM and Society",
-          "description": null,
+          "description": "penguinnnnn/awesome-llm-and-society",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:04:41.300Z",
+    "last_updated": "2026-10-03T04:27:19.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
@@ -686,7 +686,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-09-23T06:23:13Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "AiHubCN",
       "repo": "Awesome-Personalized-LLM",
       "stars": 148,
