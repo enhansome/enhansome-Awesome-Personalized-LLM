@@ -130,7 +130,7 @@
                 "open_issues": 2,
                 "owner": "choosewhatulike",
                 "repo": "trainable-agents",
-                "stars": 649,
+                "stars": 650,
                 "topics": [
                   "agent",
                   "character",
@@ -392,7 +392,7 @@
                     "open_issues": 59,
                     "owner": "HarderThenHarder",
                     "repo": "transformers_tasks",
-                    "stars": 2424,
+                    "stars": 2425,
                     "topics": [
                       "information-extraction",
                       "nlp",
@@ -510,7 +510,7 @@
                 "open_issues": 0,
                 "owner": "nuochenpku",
                 "repo": "Awesome-Role-Play-Papers",
-                "stars": 232,
+                "stars": 233,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -611,7 +611,7 @@
             "open_issues": 1,
             "owner": "iwangjian",
             "repo": "Paper-Reading-ConvAI",
-            "stars": 1043,
+            "stars": 1044,
             "topics": [
               "conversational-ai",
               "dialogue-generation",
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:49:05.291Z",
+    "last_updated": "2026-10-05T15:11:52.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
