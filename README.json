@@ -109,7 +109,7 @@
                 "open_issues": 4,
                 "owner": "thu-coai",
                 "repo": "CharacterGLM-6B",
-                "stars": 506,
+                "stars": 507,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T13:32:58.243Z",
+    "last_updated": "2026-10-07T13:47:51.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
