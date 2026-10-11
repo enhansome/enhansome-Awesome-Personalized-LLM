@@ -461,7 +461,7 @@
                 "open_issues": 27,
                 "owner": "morecry",
                 "repo": "CharacterEval",
-                "stars": 305,
+                "stars": 306,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T12:58:31.226Z",
+    "last_updated": "2026-10-11T13:23:12.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",

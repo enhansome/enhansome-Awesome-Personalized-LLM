@@ -85,7 +85,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 | Title                                                                                                                       |  Venue  |    Date    |                                                  Code                                                  | Demo |
 | :-------------------------------------------------------------------------------------------------------------------------- | :-----: | :--------: | :----------------------------------------------------------------------------------------------------: | :--: |
-| [**CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation**](https://arxiv.org/abs/2401.01275) | Arxiv24 | 2024-01-02 | [CharacterEval](https://github.com/morecry/CharacterEval) ⭐ 305 \| 🐛 27 \| 🌐 Python \| 📅 2025-05-27 |   -  |
+| [**CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation**](https://arxiv.org/abs/2401.01275) | Arxiv24 | 2024-01-02 | [CharacterEval](https://github.com/morecry/CharacterEval) ⭐ 306 \| 🐛 27 \| 🌐 Python \| 📅 2025-05-27 |   -  |
 | [**RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models**](https://arxiv.org/abs/2312.16132)           | Arxiv23 | 2023-12-12 |           [RoleEval](https://github.com/Magnetic2014/RoleEval) ⭐ 44 \| 🐛 1 \| 📅 2024-01-09           |   -  |
 | [**LaMP: When Large Language Models Meet Personalization**](https://arxiv.org/pdf/2304.11406.pdf)                           | Arxiv23 | 2023-05-19 |                                                    -                                                   |   -  |
 
@@ -115,4 +115,4 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
