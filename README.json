@@ -130,7 +130,7 @@
                 "open_issues": 2,
                 "owner": "choosewhatulike",
                 "repo": "trainable-agents",
-                "stars": 651,
+                "stars": 652,
                 "topics": [
                   "agent",
                   "character",
@@ -317,7 +317,7 @@
                 "open_issues": 0,
                 "owner": "naver-ai",
                 "repo": "carecall-corpus",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -563,7 +563,7 @@
             "open_issues": 0,
             "owner": "naver-ai",
             "repo": "carecall-corpus",
-            "stars": 62,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:56.796Z"
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T13:23:12.323Z",
+    "last_updated": "2026-10-12T15:59:00.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
