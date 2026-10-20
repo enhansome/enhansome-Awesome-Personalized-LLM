@@ -85,7 +85,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 | Title                                                                                                                       |  Venue  |    Date    |                                                  Code                                                  | Demo |
 | :-------------------------------------------------------------------------------------------------------------------------- | :-----: | :--------: | :----------------------------------------------------------------------------------------------------: | :--: |
-| [**CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation**](https://arxiv.org/abs/2401.01275) | Arxiv24 | 2024-01-02 | [CharacterEval](https://github.com/morecry/CharacterEval) ⭐ 308 \| 🐛 27 \| 🌐 Python \| 📅 2025-05-27 |   -  |
+| [**CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation**](https://arxiv.org/abs/2401.01275) | Arxiv24 | 2024-01-02 | [CharacterEval](https://github.com/morecry/CharacterEval) ⭐ 309 \| 🐛 27 \| 🌐 Python \| 📅 2025-05-27 |   -  |
 | [**RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models**](https://arxiv.org/abs/2312.16132)           | Arxiv23 | 2023-12-12 |           [RoleEval](https://github.com/Magnetic2014/RoleEval) ⭐ 44 \| 🐛 1 \| 📅 2024-01-09           |   -  |
 | [**LaMP: When Large Language Models Meet Personalization**](https://arxiv.org/pdf/2304.11406.pdf)                           | Arxiv23 | 2023-05-19 |                                                    -                                                   |   -  |
 
@@ -93,7 +93,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 | Title                                                                                                              |  Venue  |    Date    |                                                         Code                                                         | Demo |
 | :----------------------------------------------------------------------------------------------------------------- | :-----: | :--------: | :------------------------------------------------------------------------------------------------------------------: | :--: |
-| [**The Oscars of AI Theater: A Survey on Role-Playing with Language Models**](https://arxiv.org/pdf/2407.11484)    | Arxiv24 | 2024-09-01 | [Awesome-Role Playing-Papers](https://github.com/nuochenpku/Awesome-Role-Play-Papers) ⭐ 233 \| 🐛 0 \| 📅 2024-11-03 |   -  |
+| [**The Oscars of AI Theater: A Survey on Role-Playing with Language Models**](https://arxiv.org/pdf/2407.11484)    | Arxiv24 | 2024-09-01 | [Awesome-Role Playing-Papers](https://github.com/nuochenpku/Awesome-Role-Play-Papers) ⭐ 234 \| 🐛 0 \| 📅 2024-11-03 |   -  |
 | [**Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization**](https://arxiv.org/pdf/2406.01171) | Arxiv24 | 2024-06-01 |            [PersonaLLM-Survey](https://github.com/MiuLab/PersonaLLM-Survey) ⭐ 119 \| 🐛 2 \| 📅 2024-10-11           |   -  |
 | [**From Persona to Personalization: A Survey on Role-Playing Language Agents**](https://arxiv.org/pdf/2404.18231)  | Arxiv24 | 2023-04-28 |                                                           -                                                          |   -  |
 
@@ -115,4 +115,4 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._

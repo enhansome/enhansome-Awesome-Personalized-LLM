@@ -461,7 +461,7 @@
                 "open_issues": 27,
                 "owner": "morecry",
                 "repo": "CharacterEval",
-                "stars": 308,
+                "stars": 309,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -510,7 +510,7 @@
                 "open_issues": 0,
                 "owner": "nuochenpku",
                 "repo": "Awesome-Role-Play-Papers",
-                "stars": 233,
+                "stars": 234,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T13:50:58.557Z",
+    "last_updated": "2026-10-20T11:59:45.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
