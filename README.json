@@ -510,7 +510,7 @@
                 "open_issues": 0,
                 "owner": "nuochenpku",
                 "repo": "Awesome-Role-Play-Papers",
-                "stars": 234,
+                "stars": 235,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T12:17:08.635Z",
+    "last_updated": "2026-10-23T11:58:12.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
