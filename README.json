@@ -639,7 +639,7 @@
             "open_issues": 1,
             "owner": "Sahandfer",
             "repo": "PersonaPaper",
-            "stars": 172,
+            "stars": 173,
             "topics": [
               "conversational-ai",
               "dialog-systems",
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T11:56:13.166Z",
+    "last_updated": "2026-10-26T13:28:31.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
