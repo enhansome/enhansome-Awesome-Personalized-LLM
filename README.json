@@ -160,7 +160,7 @@
                 "open_issues": 11,
                 "owner": "InteractiveNLP-Team",
                 "repo": "RoleLLM-public",
-                "stars": 534,
+                "stars": 535,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -392,7 +392,7 @@
                     "open_issues": 59,
                     "owner": "HarderThenHarder",
                     "repo": "transformers_tasks",
-                    "stars": 2426,
+                    "stars": 2427,
                     "topics": [
                       "information-extraction",
                       "nlp",
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T13:36:45.395Z",
+    "last_updated": "2026-10-30T13:25:19.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
