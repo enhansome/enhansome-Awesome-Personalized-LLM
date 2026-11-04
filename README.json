@@ -84,7 +84,7 @@
                 "open_issues": 1,
                 "owner": "OFA-Sys",
                 "repo": "Ditto",
-                "stars": 214,
+                "stars": 215,
                 "topics": [
                   "benchmark",
                   "llm",
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:35:11.679Z",
+    "last_updated": "2026-11-04T14:49:08.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
