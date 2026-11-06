@@ -29,7 +29,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 | [**Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent**](https://arxiv.org/pdf/2402.13717.pdf)                               | Arxiv24 | 2024-02-21 |               [Neeko](https://github.com/weiyifan1023/Neeko) ⭐ 139 \| 🐛 2 \| 🌐 Python \| 📅 2025-07-23              |                                         -                                        |
 | [**Enhancing Role-playing Systems through Aggressive Queries: Evaluation and Improvement**](https://arxiv.org/pdf/2402.10618.pdf)                         | Arxiv24 | 2024-02-16 |                                                           -                                                           |                                         -                                        |
 | [**Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment**](https://arxiv.org/pdf/2401.12474.pdf)  | Arxiv24 | 2024-01-24 |            [Ditto](https://github.com/OFA-Sys/Ditto) ⭐ 215 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2024-05-28            |                                         -                                        |
-| [**CharacterGLM: Customizing Chinese Conversational AI Characters with  Large Language Models**](https://arxiv.org/pdf/2311.16832.pdf)                    | Arxiv23 | 2023-11-19 |       [CharacterGLM-6B](https://github.com/thu-coai/CharacterGLM-6B) ⭐ 506 \| 🐛 4 \| 🌐 Python \| 📅 2025-10-02      |                                         -                                        |
+| [**CharacterGLM: Customizing Chinese Conversational AI Characters with  Large Language Models**](https://arxiv.org/pdf/2311.16832.pdf)                    | Arxiv23 | 2023-11-19 |       [CharacterGLM-6B](https://github.com/thu-coai/CharacterGLM-6B) ⭐ 505 \| 🐛 4 \| 🌐 Python \| 📅 2025-10-02      |                                         -                                        |
 | [**Character-LLM: A Trainable Agent for Role-Playing**](https://arxiv.org/pdf/2310.10158v1.pdf)                                                           | EMNLP23 | 2023-10-16 |  [trainable-agents](https://github.com/choosewhatulike/trainable-agents) ⭐ 656 \| 🐛 2 \| 🌐 Python \| 📅 2024-10-29  |                                         -                                        |
 | [**Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning Dialogue Agents with Characters**](https://arxiv.org/abs/2211.06869)         | EMNLP23 | 2023-10-09 |                                   [HPD](https://nuochenpku.github.io/HPD.github.io/)                                  |                                         -                                        |
 | [**NarrativePlay: Interactive Narrative Understanding**](https://arxiv.org/pdf/2310.01459.pdf)                                                            |  arXiv  | 2023-10-02 |                                                           -                                                           |                                         -                                        |
@@ -109,10 +109,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## Related Repositories
 
-* [Paper reading list in dialogue systems](https://github.com/iwangjian/Paper-Reading#personalized-dialogue) ⭐ 1,043 | 🐛 1 | 📅 2026-05-05
+* [Paper reading list in dialogue systems](https://github.com/iwangjian/Paper-Reading#personalized-dialogue) ⭐ 1,044 | 🐛 1 | 📅 2026-05-05
 * [Persona Paper](https://github.com/Sahandfer/PersonaPaper) ⭐ 173 | 🐛 1 | 📅 2024-07-12
 * [LLM and Society](https://github.com/penguinnnnn/awesome-llm-and-society) ⭐ 51 | 🐛 0 | 📅 2023-11-03
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
