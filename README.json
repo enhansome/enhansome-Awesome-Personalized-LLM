@@ -109,7 +109,7 @@
                 "open_issues": 4,
                 "owner": "thu-coai",
                 "repo": "CharacterGLM-6B",
-                "stars": 505,
+                "stars": 504,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -160,7 +160,7 @@
                 "open_issues": 11,
                 "owner": "InteractiveNLP-Team",
                 "repo": "RoleLLM-public",
-                "stars": 537,
+                "stars": 538,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -636,7 +636,7 @@
             "language": null,
             "license": "CC-BY-4.0",
             "last_commit": "2024-07-12T06:32:21Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "Sahandfer",
             "repo": "PersonaPaper",
             "stars": 173,
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T16:46:35.741Z",
+    "last_updated": "2026-11-10T15:10:22.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
