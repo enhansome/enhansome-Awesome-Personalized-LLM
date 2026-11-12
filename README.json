@@ -109,7 +109,7 @@
                 "open_issues": 4,
                 "owner": "thu-coai",
                 "repo": "CharacterGLM-6B",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -130,7 +130,7 @@
                 "open_issues": 2,
                 "owner": "choosewhatulike",
                 "repo": "trainable-agents",
-                "stars": 657,
+                "stars": 658,
                 "topics": [
                   "agent",
                   "character",
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T14:40:10.286Z",
+    "last_updated": "2026-11-12T15:31:25.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
