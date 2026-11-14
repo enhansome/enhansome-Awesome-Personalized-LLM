@@ -392,7 +392,7 @@
                     "open_issues": 59,
                     "owner": "HarderThenHarder",
                     "repo": "transformers_tasks",
-                    "stars": 2424,
+                    "stars": 2423,
                     "topics": [
                       "information-extraction",
                       "nlp",
@@ -461,7 +461,7 @@
                 "open_issues": 27,
                 "owner": "morecry",
                 "repo": "CharacterEval",
-                "stars": 311,
+                "stars": 310,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T14:51:08.538Z",
+    "last_updated": "2026-11-14T13:45:02.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
