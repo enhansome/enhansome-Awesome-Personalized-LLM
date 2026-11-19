@@ -130,7 +130,7 @@
                 "open_issues": 2,
                 "owner": "choosewhatulike",
                 "repo": "trainable-agents",
-                "stars": 660,
+                "stars": 659,
                 "topics": [
                   "agent",
                   "character",
@@ -160,7 +160,7 @@
                 "open_issues": 11,
                 "owner": "InteractiveNLP-Team",
                 "repo": "RoleLLM-public",
-                "stars": 538,
+                "stars": 540,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T15:55:33.695Z",
+    "last_updated": "2026-11-19T15:59:32.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
