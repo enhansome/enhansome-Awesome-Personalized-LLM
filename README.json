@@ -109,7 +109,7 @@
                 "open_issues": 4,
                 "owner": "thu-coai",
                 "repo": "CharacterGLM-6B",
-                "stars": 506,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:56.796Z"
@@ -130,7 +130,7 @@
                 "open_issues": 2,
                 "owner": "choosewhatulike",
                 "repo": "trainable-agents",
-                "stars": 659,
+                "stars": 658,
                 "topics": [
                   "agent",
                   "character",
@@ -181,7 +181,7 @@
                 "open_issues": 43,
                 "owner": "LC1332",
                 "repo": "Chat-Haruhi-Suzumiya",
-                "stars": 2124,
+                "stars": 2123,
                 "topics": [
                   "role-playing",
                   "text-generation"
@@ -347,7 +347,7 @@
                     "open_issues": 43,
                     "owner": "LC1332",
                     "repo": "Chat-Haruhi-Suzumiya",
-                    "stars": 2124,
+                    "stars": 2123,
                     "topics": [
                       "role-playing",
                       "text-generation"
@@ -392,7 +392,7 @@
                     "open_issues": 59,
                     "owner": "HarderThenHarder",
                     "repo": "transformers_tasks",
-                    "stars": 2423,
+                    "stars": 2422,
                     "topics": [
                       "information-extraction",
                       "nlp",
@@ -611,7 +611,7 @@
             "open_issues": 1,
             "owner": "iwangjian",
             "repo": "Paper-Reading-ConvAI",
-            "stars": 1044,
+            "stars": 1043,
             "topics": [
               "conversational-ai",
               "dialogue-generation",
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:59:32.556Z",
+    "last_updated": "2026-11-20T15:42:48.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
